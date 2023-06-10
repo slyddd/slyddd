@@ -22,18 +22,20 @@
 
 #### :gear: Dev Stack
 
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-git-5950DC?style=flat&logo=git&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-zsh-5950DC?style=flat&logo=gnu-bash&logoColor=E185E4"/>
-<img hspace="5" vspace="2.5" src="https://img.shields.io/badge/-CSS-5950DC?style=flat&logo=css3&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-Dart-5950DC?style=flat&logo=dart&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-React-5950DC?style=flat&logo=react&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-HTML5-5950DC?style=flat&logo=html5&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-Next.js-5950DC?style=flat&logo=next.js&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-TailWind-5950DC?style=flat&logo=tailwind-css&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-JavaScript-5950DC?style=flat&logo=javascript&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-TypeScript-5950DC?style=flat&logo=typescript&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-Arch%20Linux-5950DC?style=flat&logo=arch-linux&logoColor=E185E4"/>
-<img hspace="5" vspace="5" src="https://img.shields.io/badge/-Visual%20Studio%20Code-5950DC?style=flat&logo=visual-studio-code&logoColor=E185E4"/>
+<div>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-git-5950DC?style=flat&logo=git&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-zsh-5950DC?style=flat&logo=gnu-bash&logoColor=E185E4"/>
+  <img hspace="5" vspace="2.5" src="https://img.shields.io/badge/-CSS-5950DC?style=flat&logo=css3&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Dart-5950DC?style=flat&logo=dart&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-React-5950DC?style=flat&logo=react&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-HTML5-5950DC?style=flat&logo=html5&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Next.js-5950DC?style=flat&logo=next.js&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-TailWind-5950DC?style=flat&logo=tailwind-css&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-JavaScript-5950DC?style=flat&logo=javascript&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-TypeScript-5950DC?style=flat&logo=typescript&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Arch%20Linux-5950DC?style=flat&logo=arch-linux&logoColor=E185E4"/>
+  <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Visual%20Studio%20Code-5950DC?style=flat&logo=visual-studio-code&logoColor=E185E4"/>
+</div>
 
 ---
 
