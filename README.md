@@ -42,8 +42,8 @@
 #### :bar_chart: Stats
 
 <div align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiddhermez&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiddhermez&theme=buefy&layout=compact" />
-</a>
+  <a href="https://github.com/kiddhermez">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiddhermez&theme=buefy&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiddhermez&theme=buefy&layout=compact" />
+  </a>
 </div>
