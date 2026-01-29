@@ -13,27 +13,17 @@
 
 ## About Me
 
-I'm a Systems Engineering student at the University of Cundinamarca in Fusagasugá, Colombia. I have a strong passion
-for learning new things and am a self-taught individual. I enjoy exploring various fields and continuously expanding my
-knowledge. I'm currently focusing on web development and am working on improving my skills in this area.
+Systems and Computing Engineer with experience developing web and mobile solutions, networking, and cybersecurity fundamentals, strengthened through applied projects and research groups. I have worked with Java, JavaScript, TypeScript, SQL/NoSQL databases, and Linux and Windows Server environments.
 
 <br>
 
 ## Contact Me
 
 <div align="center">
-    <a href="https://github.com/slyddd">
-        <img width=20 src="/assets/Github.svg" alt="github" hspace=20>
-    </a>
-    <a href="https://www.linkedin.com/in/dayvidnavarrete/">
-        <img width=20 src="/assets/LinkedIn.svg" alt="linkedin" hspace=20>
-    </a>
-    <a href="mailto:dayvidnavarrrete@gmail.com">
-        <img width=20 src="/assets/Email.svg" alt="email" hspace=20>
-    </a>
-    <a href="https://instagram.com/slydd__">
-        <img width=20 src="/assets/Instagram.svg" alt="instagram" hspace=20>
-    </a>
+  <a href="https://github.com/slyddd"><img width="20" src="./assets/Github.svg" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dayvidnavarrete/"><img width="20" src="./assets/LinkedIn.svg" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dsnavarrete.sistemas@gmail.com"><img width="20" src="./assets/Email.svg" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/slydd.dev"><img width="20" src="./assets/Instagram.svg" alt="Instagram"></a>
 </div>
 
 <br>
@@ -48,10 +38,6 @@ knowledge. I'm currently focusing on web development and am working on improving
     <img hspace="5" vspace="5" src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=40523A"/>
     <img hspace="5" vspace="5" src="https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=40523A"/>
     <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Dart-FFFFFF?style=flat&logo=dart&logoColor=40523A"/>
-    <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Go-FFFFFF?style=flat&logo=go&logoColor=40523A"/>
-    <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Php-FFFFFF?style=flat&logo=php&logoColor=40523A"/>
-    <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=40523A"/>
-    <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=openjdk&logoColor=40523A"/>
 </div>
 
 ### _Frameworks_
@@ -73,14 +59,6 @@ knowledge. I'm currently focusing on web development and am working on improving
     <img hspace="5" vspace="5" src="https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=40523A"/>
 </div>
 
-### _Tools_
-
-<div>
-    <img hspace="5" vspace="5" src="https://img.shields.io/badge/-git-FFFFFF?style=flat&logo=git&logoColor=40523A"/>
-    <img hspace="5" vspace="5" src="https://img.shields.io/badge/-JetBrains-FFFFFF?style=flat&logo=jetbrains&logoColor=40523A"/>
-    <img hspace="5" vspace="5" src="https://img.shields.io/badge/-Postman-FFFFFF?style=flat&logo=postman&logoColor=40523A"/>
-</div>
-
 ### _Operating System_
 
 <div>
@@ -92,7 +70,6 @@ knowledge. I'm currently focusing on web development and am working on improving
 
 ## Stats
 
-<div align="center">
-    <img hspace="10" width="45%" src="https://github-readme-stats.vercel.app/api?username=slyddd&show_icons=true&bg_color=FFFFFF&title_color=40523A&text_color=40523A&icon_color=40523A&card_width=500&hide_border=true"/>
-    <img hspace="10" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyddd&layout=compact&bg_color=FFFFFF&title_color=40523A&text_color=40523A&icon_color=40523A&card_width=423&hide_border=true" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=slyddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=slyddd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slyddd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
